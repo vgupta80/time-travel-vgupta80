@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Have you ever dreamed of stepping into a **time machine** and exploring different eras of history? This zine examines the scientific foundations and imaginative concepts behind time travel, offering insights into both theoretical physics and creative storytelling.
+Have you ever dreamed of stepping into a **time machine** and journeying across the timeline? This zine explores the fascinating world of temporal travel, blending scientific foundations with imaginative concepts to inspire wonder and deepen understanding of both theoretical physics and creative storytelling.
 
 Time travel has captivated human imagination for centuries. Whether it's witnessing historical events, meeting our ancestors, or glimpsing the distant future, the idea of a time machine opens endless possibilities for adventure and discovery.
 
